@@ -223,12 +223,13 @@ Saya rasa kurang afdol kalo tidak saya testing sendiri malukan kalau sudah di bu
 
 sukses yaa, jika teman-teman ingin menggunakan AI sederhana ini, bisa memasukan perintah dengan detail dan jelas serta masukan mata[elajaran apa yang akan di hadapi agar AI dapat membaca dan mengeluarkan respon :)
 
+# Kesimpulan 
+
+Menurut saya pemanfaatan EdgeOne ini sangat-sangat berguna sekali, sebetulnya project bukan hanya sekedar Ai sederhana yang saya buat, tetapi dapat dibuatkan project yang lain yang lebih jos dan lebih menarik dari AI STUDY SOLVER saya, dan dapat dipake media belajar terutama jurusan yang berkaitan dengan teknologi. Dan juga faktanya pada saat ini AI memang betul-betul sedang trend dan banyak perusahaan yang mau membuat AI-nya masing-masing, dan ini juga bisa menjadi titik awal kesempatan emas untuk bekerja di perusahaan-nya. 
+
+
 Akhur Kata
 
 Wassalamualaikum Wr.Wb
 
 #TencentEdgeOne #EdgeOneMakers #CODEPOLITAN #EdgeOne
-
-# Kesimpulan 
-
-Menurut saya pemanfaatan EdgeOne ini sangat-sangat berguna sekali, sebetulnya project bukan hanya sekedar Ai sederhana yang saya buat, tetapi dapat dibuatkan project yang lain yang lebih jos dan lebih menarik dari AI STUDY SOLVER saya, dan dapat dipake media belajar terutama jurusan yang berkaitan dengan teknologi. Dan juga faktanya pada saat ini AI memang betul-betul sedang trend dan banyak perusahaan yang mau membuat AI-nya masing-masing, dan ini juga bisa menjadi titik awal kesempatan emas untuk bekerja di perusahaan-nya. 
